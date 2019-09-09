@@ -1,0 +1,16 @@
+{
+  "managedInvestmentPortfolioAnalysisInstanceReference" : "MIPAIR744191",
+  "cRManagedInvestmentPortfolioAnalysisInstanceRecord" : {
+    "investmentPortfolioInstanceRecord" : {},
+    "investmentPortfolioInstanceReference" : "785156",
+    "investmentPortfolioAnalysisReport" : {
+      "investmentPortfolioAnalysisResult" : "investmentPortfolioAnalysisResult",
+      "documentDirectoryEntryInstanceReference" : "749056",
+      "investmentPortfolioAnalysisReportingDate" : "09-22-2018"
+    },
+    "investmentPortfolioAnalysisSchedule" : "investmentPortfolioAnalysisSchedule"
+  },
+  "managedInvestmentPortfolioAnalysisEvaluateActionReference" : "MIPAEAR759785",
+  "managedInvestmentPortfolioAnalysisInstanceStatus" : "managedInvestmentPortfolioAnalysisInstanceStatus",
+  "managedInvestmentPortfolioAnalysisEvaluateActionRecord" : {}
+}

@@ -1,0 +1,43 @@
+{
+  "performanceAnalysisInstanceAnalysis" : {
+    "performanceAnalysisInstanceAnalysisParameters" : "performanceAnalysisInstanceAnalysisParameters",
+    "performanceAnalysisInstanceAnalysisReportType" : "performanceAnalysisInstanceAnalysisReportType",
+    "performanceAnalysisInstanceAnalysisRecord" : {},
+    "performanceAnalysisInstanceAnalysisReport" : {}
+  },
+  "performanceAnalysisRetrieveActionTaskReference" : "MIPARATR762248",
+  "performanceAnalysisInstanceRecord" : {
+    "investmentPortfolioPerformanceAnalysisType" : "investmentPortfolioPerformanceAnalysisType",
+    "investmentPortfolioPerformanceAnalysisTask" : {
+      "investmentPerformanceRequestSpecification" : "investmentPerformanceRequestSpecification",
+      "investmentPerformanceRequestResult" : "investmentPerformanceRequestResult",
+      "investmentPerformanceFinancialMarketResearchReport" : {},
+      "investmentPerformanceProductServiceActivityReport" : {},
+      "investmentPerformanceModelReference" : "790317",
+      "investmentPerformanceWorkProducts" : "investmentPerformanceWorkProducts"
+    }
+  },
+  "cRManagedInvestmentPortfolioAnalysisInstanceRecord" : {
+    "investmentAccountFulfillmentArrangementInstanceReference" : "775242",
+    "productInstanceReference" : "796379",
+    "employeeBusinessUnitReference" : "799127",
+    "customerReference" : "773145",
+    "investmentPortfolioInstanceRecord" : {},
+    "investmentPortfolioInstanceReference" : "743919",
+    "investmentPortfolioAnalysisReport" : {
+      "investmentPortfolioAnalysisType" : "investmentPortfolioAnalysisType",
+      "investmentPortfolioAnalysisResult" : "investmentPortfolioAnalysisResult",
+      "documentDirectoryEntryInstanceReference" : "737490",
+      "investmentPortfolioAnalysisReportingDate" : "09-22-2018"
+    },
+    "investmentPortfolioAnalysisSchedule" : "investmentPortfolioAnalysisSchedule"
+  },
+  "performanceAnalysisRetrieveActionResponse" : "performanceAnalysisRetrieveActionResponse",
+  "performanceAnalysisInstanceReport" : {
+    "performanceAnalysisInstanceReportParameters" : "performanceAnalysisInstanceReportParameters",
+    "performanceAnalysisInstanceReportType" : "performanceAnalysisInstanceReportType",
+    "performanceAnalysisInstanceReportRecord" : {},
+    "performanceAnalysisInstanceReport" : {}
+  },
+  "performanceAnalysisRetrieveActionTaskRecord" : {}
+}

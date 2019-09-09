@@ -1,0 +1,15 @@
+{
+  "performanceAnalysisExecuteActionTaskRecord" : {},
+  "performanceAnalysisExecuteRecordReference" : "PAERR710927",
+  "performanceAnalysisInstanceRecord" : {
+    "investmentPortfolioPerformanceAnalysisTask" : {
+      "investmentPerformanceRequestResult" : "investmentPerformanceRequestResult",
+      "investmentPerformanceFinancialMarketResearchReport" : {},
+      "investmentPerformanceProductServiceActivityReport" : {},
+      "investmentPerformanceModelReference" : "781321",
+      "investmentPerformanceWorkProducts" : "investmentPerformanceWorkProducts"
+    }
+  },
+  "executeResponseRecord" : {},
+  "performanceAnalysisExecuteActionTaskReference" : "MIPAEATR790402"
+}

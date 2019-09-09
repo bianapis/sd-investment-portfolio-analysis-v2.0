@@ -1,0 +1,15 @@
+{
+  "performanceAnalysisRequestRecordReference" : "PARRR731871",
+  "performanceAnalysisInstanceRecord" : {
+    "investmentPortfolioPerformanceAnalysisTask" : {
+      "investmentPerformanceRequestResult" : "investmentPerformanceRequestResult",
+      "investmentPerformanceFinancialMarketResearchReport" : {},
+      "investmentPerformanceProductServiceActivityReport" : {},
+      "investmentPerformanceModelReference" : "776468",
+      "investmentPerformanceWorkProducts" : "investmentPerformanceWorkProducts"
+    }
+  },
+  "performanceAnalysisRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "performanceAnalysisRequestActionTaskReference" : "MIPARATR713093"
+}

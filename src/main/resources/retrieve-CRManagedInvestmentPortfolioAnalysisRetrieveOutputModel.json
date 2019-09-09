@@ -1,0 +1,30 @@
+{
+  "cRManagedInvestmentPortfolioAnalysisInstanceRecord" : {
+    "investmentAccountFulfillmentArrangementInstanceReference" : "717122",
+    "productInstanceReference" : "706302",
+    "employeeBusinessUnitReference" : "701341",
+    "customerReference" : "778426",
+    "investmentPortfolioInstanceRecord" : {},
+    "investmentPortfolioInstanceReference" : "766664",
+    "investmentPortfolioAnalysisReport" : {
+      "investmentPortfolioAnalysisType" : "investmentPortfolioAnalysisType",
+      "investmentPortfolioAnalysisResult" : "investmentPortfolioAnalysisResult",
+      "documentDirectoryEntryInstanceReference" : "704854",
+      "investmentPortfolioAnalysisReportingDate" : "09-22-2018"
+    },
+    "investmentPortfolioAnalysisSchedule" : "investmentPortfolioAnalysisSchedule"
+  },
+  "managedInvestmentPortfolioAnalysisInstanceAnalysis" : {
+    "managedInvestmentPortfolioAnalysisInstanceAnalysisReportType" : "managedInvestmentPortfolioAnalysisInstanceAnalysisReportType",
+    "managedInvestmentPortfolioAnalysisInstanceAnalysisReport" : {},
+    "managedInvestmentPortfolioAnalysisInstanceAnalysisData" : "managedInvestmentPortfolioAnalysisInstanceAnalysisData"
+  },
+  "managedInvestmentPortfolioAnalysisRetrieveActionTaskReference" : "MIPARATR742369",
+  "managedInvestmentPortfolioAnalysisRetrieveActionTaskRecord" : {},
+  "managedInvestmentPortfolioAnalysisInstanceReportRecord" : {
+    "managedInvestmentPortfolioAnalysisInstanceReportData" : "managedInvestmentPortfolioAnalysisInstanceReportData",
+    "managedInvestmentPortfolioAnalysisInstanceReport" : {},
+    "managedInvestmentPortfolioAnalysisInstanceReportType" : "managedInvestmentPortfolioAnalysisInstanceReportType"
+  },
+  "managedInvestmentPortfolioAnalysisRetrieveActionResponse" : "managedInvestmentPortfolioAnalysisRetrieveActionResponse"
+}

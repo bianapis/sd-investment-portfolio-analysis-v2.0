@@ -1,0 +1,16 @@
+{
+  "executeRecordReference" : "ERR746456",
+  "managedInvestmentPortfolioAnalysisExecuteActionTaskReference" : "MIPAEATR719469",
+  "executeResponseRecord" : {},
+  "cRManagedInvestmentPortfolioAnalysisInstanceRecord" : {
+    "investmentPortfolioInstanceRecord" : {},
+    "investmentPortfolioInstanceReference" : "761367",
+    "investmentPortfolioAnalysisReport" : {
+      "investmentPortfolioAnalysisResult" : "investmentPortfolioAnalysisResult",
+      "documentDirectoryEntryInstanceReference" : "734894",
+      "investmentPortfolioAnalysisReportingDate" : "09-22-2018"
+    },
+    "investmentPortfolioAnalysisSchedule" : "investmentPortfolioAnalysisSchedule"
+  },
+  "managedInvestmentPortfolioAnalysisExecuteActionTaskRecord" : {}
+}
